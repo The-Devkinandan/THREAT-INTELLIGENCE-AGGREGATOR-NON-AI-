@@ -1,0 +1,389 @@
+{
+  "generated": "2026-02-01T08:33:59.817868Z",
+  "total_records": 38,
+  "records": [
+    {
+      "indicator": "8.8.8.8",
+      "type": "IP",
+      "sources": [
+        "feed1",
+        "feed2"
+      ],
+      "occurrences": 2,
+      "severity": "MEDIUM",
+      "confidence": 0.7
+    },
+    {
+      "indicator": "evil-site.org",
+      "type": "DOMAIN",
+      "sources": [
+        "feed1",
+        "feed2"
+      ],
+      "occurrences": 2,
+      "severity": "MEDIUM",
+      "confidence": 0.7
+    },
+    {
+      "indicator": "bad-domain.net",
+      "type": "DOMAIN",
+      "sources": [
+        "feed1",
+        "feed2"
+      ],
+      "occurrences": 2,
+      "severity": "MEDIUM",
+      "confidence": 0.7
+    },
+    {
+      "indicator": "185.199.110.153",
+      "type": "IP",
+      "sources": [
+        "feed1"
+      ],
+      "occurrences": 1,
+      "severity": "LOW",
+      "confidence": 0.5
+    },
+    {
+      "indicator": "1.1.1.1",
+      "type": "IP",
+      "sources": [
+        "feed1"
+      ],
+      "occurrences": 1,
+      "severity": "LOW",
+      "confidence": 0.5
+    },
+    {
+      "indicator": "10.0.0.1",
+      "type": "IP",
+      "sources": [
+        "feed1"
+      ],
+      "occurrences": 1,
+      "severity": "LOW",
+      "confidence": 0.5
+    },
+    {
+      "indicator": "9.9.9.9",
+      "type": "IP",
+      "sources": [
+        "feed1"
+      ],
+      "occurrences": 1,
+      "severity": "LOW",
+      "confidence": 0.5
+    },
+    {
+      "indicator": "192.168.1.5",
+      "type": "IP",
+      "sources": [
+        "feed1"
+      ],
+      "occurrences": 1,
+      "severity": "LOW",
+      "confidence": 0.5
+    },
+    {
+      "indicator": "45.67.89.10",
+      "type": "IP",
+      "sources": [
+        "feed1"
+      ],
+      "occurrences": 1,
+      "severity": "LOW",
+      "confidence": 0.5
+    },
+    {
+      "indicator": "malicious-example.com",
+      "type": "DOMAIN",
+      "sources": [
+        "feed1"
+      ],
+      "occurrences": 1,
+      "severity": "LOW",
+      "confidence": 0.5
+    },
+    {
+      "indicator": "paypal-verification-alert.com",
+      "type": "DOMAIN",
+      "sources": [
+        "feed1"
+      ],
+      "occurrences": 1,
+      "severity": "LOW",
+      "confidence": 0.5
+    },
+    {
+      "indicator": "secure-login-update.net",
+      "type": "DOMAIN",
+      "sources": [
+        "feed1"
+      ],
+      "occurrences": 1,
+      "severity": "LOW",
+      "confidence": 0.5
+    },
+    {
+      "indicator": "https://bad-domain.net/reset",
+      "type": "URL",
+      "sources": [
+        "feed1"
+      ],
+      "occurrences": 1,
+      "severity": "LOW",
+      "confidence": 0.5
+    },
+    {
+      "indicator": "http://evil-site.org/login",
+      "type": "URL",
+      "sources": [
+        "feed1"
+      ],
+      "occurrences": 1,
+      "severity": "LOW",
+      "confidence": 0.5
+    },
+    {
+      "indicator": "https://secure-login-update.net/auth",
+      "type": "URL",
+      "sources": [
+        "feed1"
+      ],
+      "occurrences": 1,
+      "severity": "LOW",
+      "confidence": 0.5
+    },
+    {
+      "indicator": "d41d8cd98f00b204e9800998ecf8427e",
+      "type": "HASH",
+      "sources": [
+        "feed1"
+      ],
+      "occurrences": 1,
+      "severity": "LOW",
+      "confidence": 0.5
+    },
+    {
+      "indicator": "5baa61e4c9b93f3f0682250b6cf8331b7ee68fd8",
+      "type": "HASH",
+      "sources": [
+        "feed1"
+      ],
+      "occurrences": 1,
+      "severity": "LOW",
+      "confidence": 0.5
+    },
+    {
+      "indicator": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "type": "HASH",
+      "sources": [
+        "feed1"
+      ],
+      "occurrences": 1,
+      "severity": "LOW",
+      "confidence": 0.5
+    },
+    {
+      "indicator": "support@evil-site.org",
+      "type": "EMAIL",
+      "sources": [
+        "feed1"
+      ],
+      "occurrences": 1,
+      "severity": "LOW",
+      "confidence": 0.5
+    },
+    {
+      "indicator": "admin@bad-domain.net",
+      "type": "EMAIL",
+      "sources": [
+        "feed1"
+      ],
+      "occurrences": 1,
+      "severity": "LOW",
+      "confidence": 0.5
+    },
+    {
+      "indicator": "alerts@secure-login-update.net",
+      "type": "EMAIL",
+      "sources": [
+        "feed1"
+      ],
+      "occurrences": 1,
+      "severity": "LOW",
+      "confidence": 0.5
+    },
+    {
+      "indicator": "23.45.67.89",
+      "type": "IP",
+      "sources": [
+        "feed2"
+      ],
+      "occurrences": 1,
+      "severity": "LOW",
+      "confidence": 0.5
+    },
+    {
+      "indicator": "192.168.100.10",
+      "type": "IP",
+      "sources": [
+        "feed2"
+      ],
+      "occurrences": 1,
+      "severity": "LOW",
+      "confidence": 0.5
+    },
+    {
+      "indicator": "10.10.10.10",
+      "type": "IP",
+      "sources": [
+        "feed2"
+      ],
+      "occurrences": 1,
+      "severity": "LOW",
+      "confidence": 0.5
+    },
+    {
+      "indicator": "172.16.0.5",
+      "type": "IP",
+      "sources": [
+        "feed2"
+      ],
+      "occurrences": 1,
+      "severity": "LOW",
+      "confidence": 0.5
+    },
+    {
+      "indicator": "103.21.244.0",
+      "type": "IP",
+      "sources": [
+        "feed2"
+      ],
+      "occurrences": 1,
+      "severity": "LOW",
+      "confidence": 0.5
+    },
+    {
+      "indicator": "172.217.16.142",
+      "type": "IP",
+      "sources": [
+        "feed2"
+      ],
+      "occurrences": 1,
+      "severity": "LOW",
+      "confidence": 0.5
+    },
+    {
+      "indicator": "account-security-alert.com",
+      "type": "DOMAIN",
+      "sources": [
+        "feed2"
+      ],
+      "occurrences": 1,
+      "severity": "LOW",
+      "confidence": 0.5
+    },
+    {
+      "indicator": "login-confirmation.net",
+      "type": "DOMAIN",
+      "sources": [
+        "feed2"
+      ],
+      "occurrences": 1,
+      "severity": "LOW",
+      "confidence": 0.5
+    },
+    {
+      "indicator": "https://login-confirmation.net/verify",
+      "type": "URL",
+      "sources": [
+        "feed2"
+      ],
+      "occurrences": 1,
+      "severity": "LOW",
+      "confidence": 0.5
+    },
+    {
+      "indicator": "http://evil-site.org/auth",
+      "type": "URL",
+      "sources": [
+        "feed2"
+      ],
+      "occurrences": 1,
+      "severity": "LOW",
+      "confidence": 0.5
+    },
+    {
+      "indicator": "https://account-security-alert.com/update",
+      "type": "URL",
+      "sources": [
+        "feed2"
+      ],
+      "occurrences": 1,
+      "severity": "LOW",
+      "confidence": 0.5
+    },
+    {
+      "indicator": "cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce",
+      "type": "HASH",
+      "sources": [
+        "feed2"
+      ],
+      "occurrences": 1,
+      "severity": "LOW",
+      "confidence": 0.5
+    },
+    {
+      "indicator": "098f6bcd4621d373cade4e832627b4f6",
+      "type": "HASH",
+      "sources": [
+        "feed2"
+      ],
+      "occurrences": 1,
+      "severity": "LOW",
+      "confidence": 0.5
+    },
+    {
+      "indicator": "2fd4e1c67a2d28fced849ee1bb76e7391b93eb12",
+      "type": "HASH",
+      "sources": [
+        "feed2"
+      ],
+      "occurrences": 1,
+      "severity": "LOW",
+      "confidence": 0.5
+    },
+    {
+      "indicator": "noreply@login-confirmation.net",
+      "type": "EMAIL",
+      "sources": [
+        "feed2"
+      ],
+      "occurrences": 1,
+      "severity": "LOW",
+      "confidence": 0.5
+    },
+    {
+      "indicator": "billing@bad-domain.net",
+      "type": "EMAIL",
+      "sources": [
+        "feed2"
+      ],
+      "occurrences": 1,
+      "severity": "LOW",
+      "confidence": 0.5
+    },
+    {
+      "indicator": "contact@evil-site.org",
+      "type": "EMAIL",
+      "sources": [
+        "feed2"
+      ],
+      "occurrences": 1,
+      "severity": "LOW",
+      "confidence": 0.5
+    }
+  ]
+}

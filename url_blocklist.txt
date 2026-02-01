@@ -1,0 +1,6 @@
+https://bad-domain.net/reset
+http://evil-site.org/login
+https://secure-login-update.net/auth
+https://login-confirmation.net/verify
+http://evil-site.org/auth
+https://account-security-alert.com/update

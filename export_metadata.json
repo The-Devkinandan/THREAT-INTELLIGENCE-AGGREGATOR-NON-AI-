@@ -1,0 +1,16 @@
+{
+  "counts": {
+    "total": 38
+  },
+  "severity_distribution": {
+    "MEDIUM": 3,
+    "LOW": 35
+  },
+  "type_distribution": {
+    "IP": 13,
+    "DOMAIN": 7,
+    "URL": 6,
+    "HASH": 6,
+    "EMAIL": 6
+  }
+}

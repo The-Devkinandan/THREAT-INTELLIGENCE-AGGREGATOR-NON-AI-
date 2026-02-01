@@ -1,0 +1,337 @@
+THREAT INTELLIGENCE AGGREGATION REPORT
+============================================================
+Generated (UTC): 2026-02-01T08:33:59.821590Z
+
+FEEDS PROCESSED
+------------------------------------------------------------
+• feed1
+• feed2
+
+SUMMARY OVERVIEW
+------------------------------------------------------------
+Total Indicators: 38
+Critical Severity: 0
+High Severity: 0
+Medium Severity: 3
+Low Severity: 35
+
+INDICATOR TYPE DISTRIBUTION
+------------------------------------------------------------
+IP Indicators: 13
+Domain Indicators: 7
+URL Indicators: 6
+Hash Indicators: 6
+Email Indicators: 6
+
+HIGH & CRITICAL SEVERITY INDICATORS
+------------------------------------------------------------
+
+FULL CORRELATED INDICATOR LISTING
+------------------------------------------------------------
+Record #1
+Indicator     : 8.8.8.8
+Type          : IP
+Severity      : MEDIUM
+Confidence    : 0.7
+Occurrences   : 2
+Sources       : feed1, feed2
+----------------------------------------
+Record #2
+Indicator     : evil-site.org
+Type          : DOMAIN
+Severity      : MEDIUM
+Confidence    : 0.7
+Occurrences   : 2
+Sources       : feed1, feed2
+----------------------------------------
+Record #3
+Indicator     : bad-domain.net
+Type          : DOMAIN
+Severity      : MEDIUM
+Confidence    : 0.7
+Occurrences   : 2
+Sources       : feed1, feed2
+----------------------------------------
+Record #4
+Indicator     : 185.199.110.153
+Type          : IP
+Severity      : LOW
+Confidence    : 0.5
+Occurrences   : 1
+Sources       : feed1
+----------------------------------------
+Record #5
+Indicator     : 1.1.1.1
+Type          : IP
+Severity      : LOW
+Confidence    : 0.5
+Occurrences   : 1
+Sources       : feed1
+----------------------------------------
+Record #6
+Indicator     : 10.0.0.1
+Type          : IP
+Severity      : LOW
+Confidence    : 0.5
+Occurrences   : 1
+Sources       : feed1
+----------------------------------------
+Record #7
+Indicator     : 9.9.9.9
+Type          : IP
+Severity      : LOW
+Confidence    : 0.5
+Occurrences   : 1
+Sources       : feed1
+----------------------------------------
+Record #8
+Indicator     : 192.168.1.5
+Type          : IP
+Severity      : LOW
+Confidence    : 0.5
+Occurrences   : 1
+Sources       : feed1
+----------------------------------------
+Record #9
+Indicator     : 45.67.89.10
+Type          : IP
+Severity      : LOW
+Confidence    : 0.5
+Occurrences   : 1
+Sources       : feed1
+----------------------------------------
+Record #10
+Indicator     : malicious-example.com
+Type          : DOMAIN
+Severity      : LOW
+Confidence    : 0.5
+Occurrences   : 1
+Sources       : feed1
+----------------------------------------
+Record #11
+Indicator     : paypal-verification-alert.com
+Type          : DOMAIN
+Severity      : LOW
+Confidence    : 0.5
+Occurrences   : 1
+Sources       : feed1
+----------------------------------------
+Record #12
+Indicator     : secure-login-update.net
+Type          : DOMAIN
+Severity      : LOW
+Confidence    : 0.5
+Occurrences   : 1
+Sources       : feed1
+----------------------------------------
+Record #13
+Indicator     : https://bad-domain.net/reset
+Type          : URL
+Severity      : LOW
+Confidence    : 0.5
+Occurrences   : 1
+Sources       : feed1
+----------------------------------------
+Record #14
+Indicator     : http://evil-site.org/login
+Type          : URL
+Severity      : LOW
+Confidence    : 0.5
+Occurrences   : 1
+Sources       : feed1
+----------------------------------------
+Record #15
+Indicator     : https://secure-login-update.net/auth
+Type          : URL
+Severity      : LOW
+Confidence    : 0.5
+Occurrences   : 1
+Sources       : feed1
+----------------------------------------
+Record #16
+Indicator     : d41d8cd98f00b204e9800998ecf8427e
+Type          : HASH
+Severity      : LOW
+Confidence    : 0.5
+Occurrences   : 1
+Sources       : feed1
+----------------------------------------
+Record #17
+Indicator     : 5baa61e4c9b93f3f0682250b6cf8331b7ee68fd8
+Type          : HASH
+Severity      : LOW
+Confidence    : 0.5
+Occurrences   : 1
+Sources       : feed1
+----------------------------------------
+Record #18
+Indicator     : e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+Type          : HASH
+Severity      : LOW
+Confidence    : 0.5
+Occurrences   : 1
+Sources       : feed1
+----------------------------------------
+Record #19
+Indicator     : support@evil-site.org
+Type          : EMAIL
+Severity      : LOW
+Confidence    : 0.5
+Occurrences   : 1
+Sources       : feed1
+----------------------------------------
+Record #20
+Indicator     : admin@bad-domain.net
+Type          : EMAIL
+Severity      : LOW
+Confidence    : 0.5
+Occurrences   : 1
+Sources       : feed1
+----------------------------------------
+Record #21
+Indicator     : alerts@secure-login-update.net
+Type          : EMAIL
+Severity      : LOW
+Confidence    : 0.5
+Occurrences   : 1
+Sources       : feed1
+----------------------------------------
+Record #22
+Indicator     : 23.45.67.89
+Type          : IP
+Severity      : LOW
+Confidence    : 0.5
+Occurrences   : 1
+Sources       : feed2
+----------------------------------------
+Record #23
+Indicator     : 192.168.100.10
+Type          : IP
+Severity      : LOW
+Confidence    : 0.5
+Occurrences   : 1
+Sources       : feed2
+----------------------------------------
+Record #24
+Indicator     : 10.10.10.10
+Type          : IP
+Severity      : LOW
+Confidence    : 0.5
+Occurrences   : 1
+Sources       : feed2
+----------------------------------------
+Record #25
+Indicator     : 172.16.0.5
+Type          : IP
+Severity      : LOW
+Confidence    : 0.5
+Occurrences   : 1
+Sources       : feed2
+----------------------------------------
+Record #26
+Indicator     : 103.21.244.0
+Type          : IP
+Severity      : LOW
+Confidence    : 0.5
+Occurrences   : 1
+Sources       : feed2
+----------------------------------------
+Record #27
+Indicator     : 172.217.16.142
+Type          : IP
+Severity      : LOW
+Confidence    : 0.5
+Occurrences   : 1
+Sources       : feed2
+----------------------------------------
+Record #28
+Indicator     : account-security-alert.com
+Type          : DOMAIN
+Severity      : LOW
+Confidence    : 0.5
+Occurrences   : 1
+Sources       : feed2
+----------------------------------------
+Record #29
+Indicator     : login-confirmation.net
+Type          : DOMAIN
+Severity      : LOW
+Confidence    : 0.5
+Occurrences   : 1
+Sources       : feed2
+----------------------------------------
+Record #30
+Indicator     : https://login-confirmation.net/verify
+Type          : URL
+Severity      : LOW
+Confidence    : 0.5
+Occurrences   : 1
+Sources       : feed2
+----------------------------------------
+Record #31
+Indicator     : http://evil-site.org/auth
+Type          : URL
+Severity      : LOW
+Confidence    : 0.5
+Occurrences   : 1
+Sources       : feed2
+----------------------------------------
+Record #32
+Indicator     : https://account-security-alert.com/update
+Type          : URL
+Severity      : LOW
+Confidence    : 0.5
+Occurrences   : 1
+Sources       : feed2
+----------------------------------------
+Record #33
+Indicator     : cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce
+Type          : HASH
+Severity      : LOW
+Confidence    : 0.5
+Occurrences   : 1
+Sources       : feed2
+----------------------------------------
+Record #34
+Indicator     : 098f6bcd4621d373cade4e832627b4f6
+Type          : HASH
+Severity      : LOW
+Confidence    : 0.5
+Occurrences   : 1
+Sources       : feed2
+----------------------------------------
+Record #35
+Indicator     : 2fd4e1c67a2d28fced849ee1bb76e7391b93eb12
+Type          : HASH
+Severity      : LOW
+Confidence    : 0.5
+Occurrences   : 1
+Sources       : feed2
+----------------------------------------
+Record #36
+Indicator     : noreply@login-confirmation.net
+Type          : EMAIL
+Severity      : LOW
+Confidence    : 0.5
+Occurrences   : 1
+Sources       : feed2
+----------------------------------------
+Record #37
+Indicator     : billing@bad-domain.net
+Type          : EMAIL
+Severity      : LOW
+Confidence    : 0.5
+Occurrences   : 1
+Sources       : feed2
+----------------------------------------
+Record #38
+Indicator     : contact@evil-site.org
+Type          : EMAIL
+Severity      : LOW
+Confidence    : 0.5
+Occurrences   : 1
+Sources       : feed2
+----------------------------------------
+
+END OF REPORT
+============================================================

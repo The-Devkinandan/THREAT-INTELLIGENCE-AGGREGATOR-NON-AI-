@@ -1,0 +1,25 @@
+8.8.8.8
+1.1.1.1
+9.9.9.9
+45.67.89.10
+185.199.110.153
+malicious-example.com
+bad-domain.net
+secure-login-update.net
+paypal-verification-alert.com
+http://evil-site.org/login
+https://bad-domain.net/reset
+https://secure-login-update.net/auth
+d41d8cd98f00b204e9800998ecf8427e
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+5baa61e4c9b93f3f0682250b6cf8331b7ee68fd8
+admin@bad-domain.net
+support@evil-site.org
+alerts@secure-login-update.net
+Connection attempt failed from 45.67.89.10
+User clicked malicious link
+Detected suspicious traffic
+Unauthorized login attempt
+192.168.1.5
+10.0.0.1
+

@@ -1,0 +1,7 @@
+evil-site.org
+bad-domain.net
+malicious-example.com
+paypal-verification-alert.com
+secure-login-update.net
+account-security-alert.com
+login-confirmation.net
